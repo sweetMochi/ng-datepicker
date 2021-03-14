@@ -5,6 +5,7 @@
 	<summary>Table of Contents</summary>
 	<ol>
 		<li><a href="#about-ngx-datepicker">About Ng Datepicker</a></li>
+		<li><a href="#getting-started">Getting Started</a></li>
 		<li><a href="#built-with">Built With</a></li>
 		<li><a href="#license">License</a></li>
 		<li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -17,6 +18,19 @@
 A coutom AngularJS datepicker for string date format
 
 > This project code is for study guideline purposes only.
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Install environment
+  ```sh
+  npm install
+  ```
+
+Start local development
+  ```sh
+  gulp serve
+  ```
 
 
 ## Built With
