@@ -1,0 +1,57 @@
+/* Color */
+
+// light color
+$bg-lighten: #fff;
+$bg-lighter: #e9f1fb;
+$bg-light: #d1e8ff;
+$bg-dark: #09102a;
+
+// alt color
+$ac-darken: #00a97f;
+$ac-dark: #30c2af;
+$ac-light: #3ed3b3;
+
+// Gray color
+$gray-5: #000;
+$gray-9: #999;
+$gray-a: #aaa;
+$gray-d5: #d5d5d5;
+$gray-e5: #e5e5e5;
+$gray-f1: #f1f1f1;
+$gray-f5: #f5f5f5;
+
+
+/* Fonts */
+$font-size: 15px;
+$line-height: 1.7;
+$font-family: Arial, Helvetica, "微軟正黑體";
+
+$fz-h1: ceil($font-size * 2.8); // 42px
+$fz-h2: ceil($font-size * 2.13); // 32px
+$fz-h3: floor($font-size * 1.66); // 25px
+$fz-h4: floor($font-size * 1.35); // 20px
+$fz-h5: floor($font-size * 1.2);; // 15px
+$fz-text: $font-size; // 15px
+$fz-small: floor($font-size * .8); // 12px
+
+/* Style */
+$space: 10px;
+$opacity: .5;
+$border-width: 1px;
+$border-radius: 5px;
+$shadow-layer: 3px 3px 3px rgba(0, 0, 0, .35);
+
+
+/* Icon Font */
+$icon-font: "";
+
+/* Datepicker */
+$datepicker-width: 230px;
+
+/* Z-index */
+$z-popup: 10;
+$z-aside: 1;
+$z-header: 1;
+$z-header-cover: 2;
+$z-print: 20;
+

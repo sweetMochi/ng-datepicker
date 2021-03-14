@@ -1,0 +1,26 @@
+
+html,
+body {
+	height: 100%;
+}
+
+
+body {
+	overflow: hidden;
+	position: relative;
+	color: $bg-dark;
+	font-size: $fz-text;
+	line-height: $line-height;
+	font-family: $font-family;
+}
+
+
+
+button {
+	padding: 0;
+	border: 0;
+	outline: 0;
+	cursor: pointer;
+	line-height: $line-height;
+	background-color: transparent;
+}

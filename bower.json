@@ -1,0 +1,25 @@
+{
+  "name": "ng-datepicker",
+  "description": "ng-datepicker",
+  "main": "index.js",
+  "authors": [
+    ""
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.2",
+    "font-awesome": "fontawesome#^4.7.0",
+    "angular-cookies": "^1.6.4",
+    "angular-translate": "^2.18.2",
+    "angular-translate-loader-static-files": "^2.18.2"
+  },
+  "devDependencies": {
+  }
+}

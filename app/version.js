@@ -1,0 +1,1 @@
+app.constant('$version',{ ver:'1615743594559'});

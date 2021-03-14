@@ -1,0 +1,14 @@
+<div ng-controller="indexCtrl as index">
+	<input
+		type="text"
+		name="date"
+		ng-model="index.date"
+		autocomplete="off"
+		datepicker
+	>
+
+	<datepicker-panel
+		init="index.datepicker"
+	></datepicker-panel>
+
+</div>
