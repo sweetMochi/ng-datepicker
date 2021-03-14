@@ -26,7 +26,7 @@ A coutom AngularJS datepicker for string date format
 ![angular](https://img.shields.io/badge/angularJS-1.7.9-red?logo=angular&style=for-the-badge)
 ![bower](https://img.shields.io/badge/bower-1.8.8-orange?logo=bower&style=for-the-badge)
 ![gulp](https://img.shields.io/badge/gulp-4.0.2-CF4647?logo=gulp&style=for-the-badge)
-![browser-sync](https://img.shields.io/badge/gulp-2.26.3-FF7139?logo=firefox-browser&style=for-the-badge)
+![browser-sync](https://img.shields.io/badge/browser--sync-2.26.3-FF7139?logo=firefox-browser&style=for-the-badge)
 
 
 <!-- LICENSE -->
